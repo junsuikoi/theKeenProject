@@ -3,6 +3,64 @@
 <html>
   <head>
   <title>Mr. Tibster</title>
+  <style>
+  h1 {
+color: white;
+text-align: center;
+font-size: 100px;
+margin: 25px;
+}
+
+ul {
+font-size: 25px;
+text-align: center;
+}
+
+li {
+display: inline-block;
+padding: 20px;
+text-decoration: underline;
+color: white;
+}
+
+body {
+background-color: RGBa(8, 80, 85, .5);
+}
+
+img {
+border-radius: 100%;
+border: solid;
+border-color: RGBa(54, 55, 65, .3);
+margin-left: 180px;
+box-shadow: 10px 5px 10px 5px darkgray;
+}
+
+p {
+color: RGBa(35, 120, 160, .8);
+font-size: 55px;
+text-align: center;
+}
+
+a {
+color: white;
+}
+
+.story {
+  font-size: 20px;
+  color: white;
+  margin: 45px;
+  position: relative;
+  box-shadow: 5px 3px 3px 5px gray;
+  padding: 20px; 
+  margin: 40px;
+  background-color: RGBa(65, 20, 40, .4);
+  border-radius: 2%;
+}
+
+#welcome {
+  font-size: 50px;
+}
+</style>
   </head>
 <body>
 <h1>Mr. Tibster</h1>
